@@ -15,8 +15,8 @@ For me, OpenKrab represents more than just code—it's a personal expedition int
 ## Projects
 
 - [ClawFlow](https://github.com/openkrab/ClawFlow) - ClawFlow is a CLI wrapper for OpenClaw that installs skill bundles and wires cron jobs in one flow. 🦞
-- [ClawReceipt](https://github.com/openkrab/ClawReceipt) - ClawReceipt is a specialized tool for OpenClaw to automatically capture, process, and manage receipts and financial data. 🦞
+- [ClawReceipt](https://github.com/openkrab/ClawReceipt) - ClawReceipt  is a specialized tool for OpenClaw to automatically capture, process, and manage receipts and financial data. 🦞
 - [ClawMemory](https://github.com/openkrab/ClawMemory) - ClawMemory is a local-first memory layer for OpenClaw/OpenKrab ecosystem. 🦞
 - [ClawWizard](https://github.com/openkrab/ClawWizard) - ClawWizard is a premium, interactive setup wizard for OpenClaw, your personal AI assistant. 🦞
 - [ClawOffice](https://github.com/openkrab/ClawOffice) - AI Agent Company Simulation. Command your CLI agent empire from the CEO desk. 🦞
-- [openkrab](https://github.com/openkrab/openkrab) - OpenKrab — Autonomous AI Infrastructure. Any OS. Any Platform. 🦞
+- [openkrab](https://github.com/openkrab/openkrab) - OpenKrab — Autonomous AI Infrastructure. Any OS. Any Platform. 🦞  🦞
