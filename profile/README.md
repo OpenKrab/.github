@@ -17,4 +17,4 @@ For me, OpenKrab represents more than just code—it's a personal expedition int
 - [ClawMemory](https://github.com/openkrab/ClawMemory) - ClawMemory is a local-first memory layer for OpenClaw/OpenKrab ecosystem. 🦞
 - [ClawWizard](https://github.com/openkrab/ClawWizard) - ClawWizard is a premium, interactive setup wizard for OpenClaw, your personal AI assistant. 🦞
 - [ClawOffice](https://github.com/openkrab/ClawOffice) - AI Agent Company Simulation. Command your CLI agent empire from the CEO desk. 🦞
-- [openkrab](https://github.com/openkrab/openkrab) - OpenKrab — Autonomous AI Infrastructure. Any OS. Any Platform. 🦞\n
+- [openkrab](https://github.com/openkrab/openkrab) - OpenKrab — Autonomous AI Infrastructure. Any OS. Any Platform. 🦞
