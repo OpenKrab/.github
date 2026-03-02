@@ -6,15 +6,17 @@ Thanks to [OpenClaw](https://github.com/openclaw) for the inspiration to get sta
 
 ## From OpenClaw to OpenKrab
 
-OpenKrab was inspired by [OpenClaw](https://github.com/openclaw/openclaw) and its vision of a personal AI assistant that can do real work, run across platforms, and integrate with everyday tools and workflows.
+OpenKrab emerged from the inspiration of [OpenClaw](https://github.com/openclaw/openclaw), embracing its vision of a personal AI assistant capable of performing real-world tasks, operating across multiple platforms, and seamlessly integrating with daily tools and workflows.
 
-Building on that inspiration, `openkrab` serves as a space for practical experimentation and productization: extending the core infrastructure in [`openkrab`](https://github.com/openkrab/openkrab), improving onboarding and setup through [ClawWizard](https://github.com/openkrab/ClawWizard), and creating room for workflow-driven extensions with [ClawFlowHub](https://github.com/openkrab/ClawFlowHub).
+Fueled by this inspiration, OpenKrab transforms into a hub for practical innovation and development. It expands the foundational framework through the core [`openkrab`](https://github.com/openkrab/openkrab) repository, enhances user onboarding with the intuitive [ClawWizard](https://github.com/openkrab/ClawWizard), and fosters workflow-driven extensions via [ClawFlow](https://github.com/openkrab/ClawFlow).
 
-For me, this organization is also a personal learning journey through building. OpenKrab is my way of contributing back, exploring new ideas, and saying thank you to the OpenClaw project by creating something original in the OpenKrab style.
+For me, OpenKrab represents more than just code—it's a personal expedition into learning through creation. This organization embodies my commitment to giving back to the community, venturing into fresh concepts, and expressing gratitude to the OpenClaw project by forging something uniquely OpenKrab.
 
 ## Projects
 
-- [openkrab](https://github.com/openkrab/openkrab)
-- [ClawWizard](https://github.com/openkrab/ClawWizard)
-- [ClawFlowHub](https://github.com/openkrab/ClawFlowHub)
-- [.github](https://github.com/openkrab/.github)
+- [openkrab](https://github.com/openkrab/openkrab) - Autonomous AI Infrastructure. Any OS. Any Platform. 🦞
+- [ClawWizard](https://github.com/openkrab/ClawWizard) - Premium, interactive setup wizard for OpenClaw 🦞
+- [ClawFlow](https://github.com/openkrab/ClawFlow) - CLI wrapper for OpenClaw that installs skill bundles and wires cron jobs 🦞
+- [ClawReceipt](https://github.com/openkrab/ClawReceipt) - Specialized tool for OpenClaw to automatically capture and manage receipts 🦞
+- [ClawMemory](https://github.com/openkrab/ClawMemory) - Local-first memory layer for OpenClaw/OpenKrab ecosystem 🦞
+- [ClawOffice](https://github.com/openkrab/ClawOffice) - AI Agent Company Simulation. Command your CLI agent empire 🦞
