@@ -14,7 +14,7 @@ For me, OpenKrab represents more than just code—it's a personal expedition int
 
 ## Projects
 
-- [ClawBackup](https://github.com/openkrab/ClawBackup) - ClawBackup automatically backs up your critical OpenClaw data nightly, encrypted and secure. 🦞 Fear losing your workspaces, memories, skills, or configs? This skill has you covered. 🦞
+- [ClawBackup](https://github.com/openkrab/ClawBackup) - ClawBackup automatically backs up your critical OpenClaw data nightly, encrypted and secure.  🦞  🦞
 - [ClawBrowser](https://github.com/openkrab/ClawBrowser) - Safe Browser Automation for OpenClaw - Browse the web safely without opening windows on your screen. 🦞
 - [ClawLearnFeed](https://github.com/openkrab/ClawLearnFeed) - ClawLearnFeed is a personal learning feed skill for OpenClaw/OpenKrab ecosystem. 🦞
 - [ClawSelfImprove](https://github.com/openkrab/ClawSelfImprove) - ClawSelfImprove is an enhanced self-improving loop for OpenClaw/OpenKrab ecosystem. 🦞
@@ -23,4 +23,4 @@ For me, OpenKrab represents more than just code—it's a personal expedition int
 - [ClawFlow](https://github.com/openkrab/ClawFlow) - ClawFlow is a CLI wrapper for OpenClaw that installs skill bundles and wires cron jobs in one flow. 🦞
 - [ClawMemory](https://github.com/openkrab/ClawMemory) - ClawMemory is a local-first memory layer for OpenClaw/OpenKrab ecosystem. 🦞
 - [ClawWizard](https://github.com/openkrab/ClawWizard) - ClawWizard is a premium, interactive setup wizard for OpenClaw, your personal AI assistant. 🦞
-- [openkrab](https://github.com/openkrab/openkrab) - OpenKrab — Autonomous AI Infrastructure. Any OS. Any Platform. 🦞  🦞
+- [OpenKrab](https://github.com/openkrab/OpenKrab) - OpenKrab — Autonomous AI Infrastructure. Any OS. Any Platform. 🦞  🦞
