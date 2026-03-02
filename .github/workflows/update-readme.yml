@@ -25,7 +25,7 @@ jobs:
           repos_json=$(gh repo list openkrab --json name,description --limit 100)
           
           # Generate markdown list, excluding .github
-          projects_md=$(echo "$repos_json" | jq -r '.[] | select(.name != ".github") | "- [\(.name)](https://github.com/openkrab/\(.name)) - \(.description // "No description") 🦞"')
+          projects_md=$(echo "$repos_json" | jq -r '.[] | select(.name != ".github") | "- [\(.name)](https://github.com/openkrab/\(.name)) - \(.description // "No description" | sub(" 🦞$"; "")) 🦞"')
           
           # Create new Projects section
           new_projects="## Projects\n\n$projects_md\n"
