@@ -14,15 +14,15 @@ For me, OpenKrab represents more than just code—it's a personal expedition int
 
 ## Projects
 
+- [Krab](https://github.com/openkrab/Krab) - Krab — The open platform that turns OpenClaw into your personal AI ecosystem. Build. Connect. Empower. 🦞
 - [ClawPoly](https://github.com/openkrab/ClawPoly) - ClawPoly is a local-first Polymarket trading bot focused on practical execution for small-to-mid bankrolls. 🦞
 - [ClawGraph](https://github.com/openkrab/ClawGraph) - ClawGraph solves the classic memory system pain point: "I remember it but can't find it". 🦞
 - [ClawMemory](https://github.com/openkrab/ClawMemory) - ClawMemory is a local-first memory layer for OpenClaw/OpenKrab ecosystem.  🦞
 - [ClawController](https://github.com/openkrab/ClawController) - ClawController is a dedicated administration app designed to orchestrate your OpenClaw Gateway instances without having to dig through command lines. 🦞
 - [ClawReceipt](https://github.com/openkrab/ClawReceipt) - ClawReceipt  is a specialized tool for OpenClaw to automatically capture, process, and manage receipts and financial data.  🦞
-- [Krab](https://github.com/openkrab/Krab) - Krab — The open platform that turns OpenClaw into your personal AI ecosystem. Build. Connect. Empower. 🦞
 - [ClawWizard](https://github.com/openkrab/ClawWizard) - ClawWizard is a premium, interactive setup wizard for OpenClaw, your personal AI assistant. 🦞
 - [ClawThai](https://github.com/openkrab/ClawThai) - Beta 🦞
-- [ClawRL](https://github.com/openkrab/ClawRL) -  🦞
+- [ClawRL](https://github.com/openkrab/ClawRL) - Beta 🦞
 - [ClawTeam](https://github.com/openkrab/ClawTeam) - Beta 🦞
 - [ClawSandbox](https://github.com/openkrab/ClawSandbox) - ClawSandbox is a security-focused testing environment forked from deduu/ClawSandbox. 🦞
 - [ClawFlow](https://github.com/openkrab/ClawFlow) - ClawFlow is a CLI wrapper for OpenClaw that installs skill bundles and wires cron jobs in one flow. 🦞
